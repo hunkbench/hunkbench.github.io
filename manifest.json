@@ -1,6 +1,6 @@
 {
-  "short_name": "Hunkbench",
-  "name": "Hunkbench: Leaderboard of LLMs for Multi-Hunk Program Repair",
+  "short_name": "RepairBench",
+  "name": "RepairBench: Leaderboard of Frontier Models for Program Repair",
   "icons": [
     {
       "src": "favicon.ico",
